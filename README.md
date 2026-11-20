@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Noah Brooks
 
-<!--
-**pconrado92/pconrado92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings! I am a highly available systems designer. I implement multi-region failovers, active-active database clustering, and advanced disaster recovery protocols.
 
-Here are some ideas to get you started:
+### Current Focus
+- Contributing to open-source libraries and CLI tools
+- Building reliable backend APIs and distributed services
+- Optimizing database queries, caching layers, and developer workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Stack
+`Mongodb, Azure, Fastapi, Go, Vue.Js, Tailwind Css, Spring, Java`
+
+---
+> *We read code so much more than we write it. Readability is crucial.*
